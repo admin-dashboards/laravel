@@ -6,7 +6,7 @@ A curated list with open-source **[Laravel Dashboards](https://github.com/admin-
 
 <br /> 
 
-## [Soft UI Dashboard TALL Free](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200)
+## ✨ [Soft UI Dashboard TALL](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) `Free`
 
 With [Laravel Soft UI Dashboard](https://www.creative-tim.com/product/soft-ui-dashboard-tall?AFFILIATE=128200) , you're getting a fast and easy way to build Laravel apps, easily style them with `Tailwind` and write `Livewire` components with a dash of `Alpine.js`.  
 
